@@ -1,0 +1,29 @@
+{
+  "name": "omnipong-listener",
+  "version": "1.0.0",
+  "description": "omnipong listener app",
+  "main": "main.js",
+  "dependencies": {
+    "aws-sdk": "^2.503.0",
+    "cheerio": "^1.0.0-rc.3",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikashsahu/omnipong-listener.git"
+  },
+  "keywords": [
+    "omnipong",
+    "listener"
+  ],
+  "author": "vikash sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikashsahu/omnipong-listener/issues"
+  },
+  "homepage": "https://github.com/vikashsahu/omnipong-listener#readme"
+}
